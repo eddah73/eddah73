@@ -2,7 +2,7 @@
 - 👀 I’m interested in  software development
 - 🌱 I’m currently student at kenyatta university persuing bachalorof science in computer science 
 - 💞️ I’m looking to collaborate on python with its framework mainly Django
-- 📫 How to reach me via email "eddahsjr@gmail.com" 
+- 📫 How to reach me via email "chepkoecheddah162@gmail.com" 
 - I have knowledge in python(Django),javascript(react js),php and html/css
 - 
 
